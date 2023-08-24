@@ -1,0 +1,11 @@
+.vscode
+.kdev4
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+GPATH
+GRTAGS
+GTAGS
+/tags
+/Test/venv
