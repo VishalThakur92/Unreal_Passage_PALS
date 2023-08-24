@@ -26,6 +26,8 @@ public class PALS_Plugin : ModuleRules
 			new string[]
 			{
 				"Core",
+				"VaRest",
+				"glTFRuntime"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
